@@ -6,6 +6,8 @@ This report provides an analysis of a fictional superstore sales performance ove
 
 Methodology:
 The data for this Superstore Analysis report was obtained from kaggle.com (https://www.kaggle.com/datasets/anandku79/kaggle), covering the period from 2010 to 2017. The data was analyzed and cleaned using Microsoft Power BI, The steps taken to plan the data visualization include,
+- I sorted the rows and colulmns 
+- I made sure the data was cleaned from any outliers and also validated the enitre data for accuracy
 - I explored the data for patterns
 - Created a column for Total Sales using DAX functions ( Total Sales = Sales_Data[Units_Sold] * Sales_Data[Unit_SellingPrice] )
 - I planned the visuals
@@ -48,4 +50,4 @@ The sales data reveals that Sub-Saharan Africa is the region with most sales, li
 Based on this analysis, the Superstore may want to consider the following recommendations.
 1. Create more awareness through advertisement in the North America and Australi/Oceania regions
 2. Make sure goods are being shipped earlier to the customers and also effective shipping methods should be considered
-3.  Create a loyalty program for customers throughout the year from January to December. 
+3. Create a loyalty program for customers throughout the year from January to December. 
