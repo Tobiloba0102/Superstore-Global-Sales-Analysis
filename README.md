@@ -46,6 +46,7 @@ The Superstore top 5 countries in regards to sales are as follows:
 -  Niger :-  [ { Sales - $55.3M } { Market Share - 0.83% } ]
 
 Conclusion:
+
 The sales data reveals that Sub-Saharan Africa is the region with most sales, likewise Rwanda being the country with the most sales with almost 1% of the entire market share.  The month of January has the highest sales record with over $670M throughout the entire years. 
 Based on this analysis, the Superstore may want to consider the following recommendations.
 1. Create more awareness through advertisement in the North America and Australi/Oceania regions
