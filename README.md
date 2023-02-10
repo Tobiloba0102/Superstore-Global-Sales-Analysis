@@ -49,6 +49,6 @@ Conclusion:
 
 The sales data reveals that Sub-Saharan Africa is the region with most sales, likewise Rwanda being the country with the most sales with almost 1% of the entire market share.  The month of January has the highest sales record with over $670M throughout the entire years. 
 Based on this analysis, the Superstore may want to consider the following recommendations.
-1. Create more awareness through advertisement in the North America and Australi/Oceania regions
+1. Create more awareness through advertisement in the North America and Australia/Oceania regions
 2. Make sure goods are being shipped earlier to the customers and also effective shipping methods should be considered
 3. Create a loyalty program for customers throughout the year from January to December. 
